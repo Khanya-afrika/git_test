@@ -1,0 +1,2 @@
+Hello world!
+Let's add this to te staging area!
